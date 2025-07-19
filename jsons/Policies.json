@@ -740,7 +740,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-                    "[+3 Culture] from every [Military Academy]",
+                    "[+3 Happiness] from every [Courthouse]",
                     "[Gold] cost of purchasing [Courthouse] buildings [-50]%"
                 ],
                 "requires": ["Militarism"],
