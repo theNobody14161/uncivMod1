@@ -1479,7 +1479,7 @@
 		"name": "Helicopter Gunship",
 		"unitType": "Helicopter",
 		"movement": 6,
-		"strength": 60,
+		"strength": 70,
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
