@@ -9,9 +9,16 @@
 		"uniques": ["Ignores Zone of Control"]
 	},
 {
+		"name": "Scouting I",
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Scout"],
+        "column": 8,
+        "row": 1
+		},
+{
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
-		"uniques": ["[+1] Movement"],
+		"uniques": ["[+1] Sight"],
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 2
@@ -19,8 +26,7 @@
 {
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[+1] Movement",
-			"[+1] Sight"],
+		"uniques": ["[+1] Sight",
 		"unitTypes": ["Scout"],
         "column": 8,
         "row": 3
