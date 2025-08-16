@@ -31,4 +31,35 @@
         "column": 8,
         "row": 3
 	},
+	{
+		"name": "Siege I",
+		"uniques": ["[+20]% Strength <vs cities>", "[-100]% weight to this choice for AI decisions"],
+		"unitTypes": ["Bomber"],
+        "column": 17,
+        "row": 1
+	},
+	{
+		"name": "Siege II",
+		"prerequisites": ["Siege I"],
+		"uniques": ["[+20]% Strength <vs cities>"],
+		"unitTypes": ["Bomber"],
+        "column": 17,
+        "row": 2
+	},
+	{
+		"name": "Siege III",
+		"prerequisites": ["Siege II"],
+		"uniques": ["[+20]% Strength <vs cities>"],
+		"unitTypes": ["Bomber"],
+        "column": 17,
+        "row": 3
+	},
+	{
+		"name": "Evasion",
+		"prerequisites": ["Siege II", "Bombardment II"],
+		"uniques": ["Damage taken from interception reduced by [40]%", "[+200]% weight to this choice for AI decisions"],
+		"unitTypes": ["Bomber"],
+        "column": 17,
+        "row": 4
+	},
 ]
