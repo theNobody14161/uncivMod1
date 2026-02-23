@@ -8,6 +8,21 @@
 		"name": "Ignore Zone of Control",
 		"uniques": ["Ignores Zone of Control"]
 	},
+	{
+		"name": "Survivalism I",
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "[+30]% Strength <when defending>"],
+		"unitTypes": ["Scout"],
+        "column": 9,
+        "row": 1
+	},
+	{
+		"name": "Survivalism II",
+		"prerequisites": ["Survivalism I"],
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "[+30]% Strength <when defending>"],
+		"unitTypes": ["Scout"],
+        "column": 9,
+        "row": 2
+	},
 {
 		"name": "Scouting I",
 		"uniques": ["[+1] Movement"],
@@ -52,6 +67,53 @@
 		"uniques": ["[+20]% Strength <vs cities>"],
 		"unitTypes": ["Bomber"],
         "column": 17,
+        "row": 3
+	},
+	{
+		"name": "Shock I",
+		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>", "[-90]% weight to this choice for AI decisions"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 4,
+        "row": 1
+	},
+	{
+		"name": "Shock II",
+		"prerequisites": ["Shock I"],
+		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 4,
+        "row": 2
+	},
+	{
+		"name": "Shock III",
+		"prerequisites": ["Shock II"],
+		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 4,
+        "row": 3
+	},
+
+	{
+		"name": "Drill I",
+		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles>", "[-90]% weight to this choice for AI decisions"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 5,
+        "row": 1
+	},
+	{
+		"name": "Drill II",
+		"prerequisites": ["Drill I"],
+		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 5,
+        "row": 2
+	},
+	{
+		"name": "Drill III",
+		"prerequisites": ["Drill II"],
+		"uniques": ["[+20]% Strength <when fighting in [Rough terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 5,
         "row": 3
 	},
 	{
