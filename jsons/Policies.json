@@ -276,7 +276,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "Gain a free [Enhancer] belief", "(if you founded a religion)",
+                    "Gain a free [Follower] belief", "(if you founded a religion)",
 		    "[-10]% Culture cost of adopting new Policies"	
                 ],
                 "requires": ["Free Religion"],
