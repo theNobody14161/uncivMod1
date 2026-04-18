@@ -927,7 +927,7 @@
                 "name": "Capitalism",
                 "uniques": [
                     "[+25]% [Gold] from every [Stock Exchange]"],
-				    "[+3 Happiness] from every [Stock Exchange]"],
+				    "[+3 Happiness] from every [Stock Exchange]"]
                 "requires": ["Democracy"],
                 "row": 3,
                 "column": 5
