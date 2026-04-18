@@ -927,6 +927,7 @@
                 "name": "Capitalism",
                 "uniques": [
                     "[+25]% [Gold] from every [Stock Exchange]"],
+				    "[+3 Happiness] from every [Stock Exchange]"],
                 "requires": ["Democracy"],
                 "row": 3,
                 "column": 5
@@ -1021,7 +1022,6 @@
                 "name": "Lightning Warfare",
                 "uniques": [
                     "[+25]% Strength <for [Armored] units> <when attacking>",
-                    "[Armored] units gain the [Ignore Zone of Control] promotion",
                     "[+1] Movement <for [Armored] units>"
                 ],
                 "requires": ["Mobilization"],
@@ -1031,8 +1031,8 @@
             {
                 "name": "Total War",
                 "uniques": [
-                    "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "[+33]% Production when constructing [Military] units [in all cities]",
+            
                 ],
                 "requires": ["Mobilization", "Strong Heroes"],
                 "row": 3,
