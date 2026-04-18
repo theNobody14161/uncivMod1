@@ -249,7 +249,7 @@
 	{
 		"name": "Circus Maximus",
 		"cost": 125,
-		"happiness": 5,
+		"happiness": 10,
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
@@ -468,7 +468,7 @@
 		"name": "Grand Temple",
 		"cost": 125,
 		"culture": 1,
-		"faith": 8,
+		"faith": 10,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
 			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
@@ -570,7 +570,7 @@
 	{
 		"name": "Oxford University",
 		"cost": 125,
-		"science": 3,
+		"science": 10,
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [University] is constructed in all [non-[Puppeted]] cities>", "Free Technology", "Cost increases by [30] per owned city"],
@@ -621,7 +621,7 @@
 	{
 		"name": "Ironworks",
 		"cost": 125,
-		"production": 8,
+		"production": 10,
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
