@@ -376,6 +376,7 @@
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [1] to [6] [Jungle] tiles",
+			"Grants [Morale] to adjacent [{Military} {Land}] units for the rest of the game <after building [heroic epic]>",
 			"Grants [+500 Gold] to the first civilization to discover it"],
 		"weight": 2
 	},
@@ -389,7 +390,7 @@
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game <after building [heroic epic]>",
+			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"weight": 1
 	},
