@@ -212,7 +212,7 @@
 	},
 	{
 		"name": "Morale", // Heroic Epic
-		"uniques": ["[+15]% Strength", "Only available <after building [Alhambra]>"],
+		"uniques": ["[+15]% Strength", "Only available <after building [The Petra]>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
 		"row": 0,
         "column": 1
