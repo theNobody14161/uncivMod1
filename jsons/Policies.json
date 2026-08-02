@@ -162,8 +162,7 @@
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
-			"[+50]% XP gained from combat <for [Military] units>"
-                ],
+			"[+50]% XP gained from combat <for [Military] units>",
             "Notified of new Barbarian encampments"
         ],
         "policies": [
