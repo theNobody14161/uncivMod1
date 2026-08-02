@@ -215,6 +215,6 @@
 		"uniques": ["[+15]% Strength", Only available <after building [Heroic Epic]>,]
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 		"row": 0,
-        "column": 2
+        "column": 1
 	},
 ]
