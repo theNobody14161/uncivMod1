@@ -418,8 +418,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
-			"Cost increases by [30] per owned city"],
-		"requiredTech": "Iron Working"
+			"Cost increases by [30] per owned city"]
 	},
 	{
 		"name": "Colossus",
