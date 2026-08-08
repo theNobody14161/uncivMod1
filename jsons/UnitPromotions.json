@@ -217,4 +217,9 @@
 		"row": 0,
         "column": 1
 	},
+	{
+		"name": "Vow of the Invincible",
+		"prerequisites": ["Barrage III","Accuracy III","Drill III",Shock III],
+		"uniques": ["Heals [10] damage <when defending>"]
+	},
 ]
