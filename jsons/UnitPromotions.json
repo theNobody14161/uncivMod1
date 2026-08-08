@@ -220,6 +220,9 @@
 	{
 		"name": "Vow of the Invincible",
 		"prerequisites": ["Barrage III","Accuracy III","Drill III",Shock III],
-		"uniques": ["Heals [10] damage <when defending>"]
+		"uniques": ["Heals [10] damage <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+		"row": 1,
+		"column": 0
 	},
 ]
