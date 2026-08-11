@@ -386,7 +386,7 @@
             {
                 "name": "Monumentality",
                 "uniques": [
-                    "[+33]% [Culture] [in all cities with a world wonder]",
+                    "[+33]% [Culture] [in all cities with a national wonder]",
                     "Empire enters golden age"
                 ],
                 "row": 1,
