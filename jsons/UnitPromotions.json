@@ -728,11 +728,11 @@
     },
 	{
 		"name": "[Mohawk Warrior] ability",
-		"uniques": ["[+30]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>"]
+		"uniques": ["[+30]% Strength <when fighting in [Forest] tiles>", "[+30]% Strength <when fighting in [Jungle] tiles>"]
 	},
 	{
 		"name": "[Jaguar] ability",
-		"uniques": ["[+30]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>", "Heals [20] damage if it kills a unit"]
+		"uniques": ["[+30]% Strength <when fighting in [Forest] tiles>", "[+30]% Strength <when fighting in [Jungle] tiles>", "Heals [20] damage if it kills a unit"]
 	},
 	{
 		"name": "[Persian Immortal] ability",
@@ -744,7 +744,7 @@
 	},
 	{
 		"name": "[Janissary] ability",
-		"uniques": ["Heals [50] damage if it kills a unit", "[+25]% Strength <when attacking>"]
+		"uniques": ["Heals [50] damage if it kills a unit", "[+20]% Strength <when attacking>"]
 	},
 	{
 		"name": "[Sipahi] ability",
@@ -769,7 +769,7 @@
 	},
 	{
 		"name": "[Hakkapeliitta] ability",
-		"uniques": ["Transfer Movement to [Great General]", "[+15]% Strength <when stacked with a [Great General] unit>"]
+		"uniques": ["Transfer Movement to [Great General]", "[+20]% Strength <when stacked with a [Great General] unit>"]
 	},
 	{
 		"name": "[Zero] ability",
@@ -790,7 +790,7 @@
 	{
 		"name": "Vow of the Invincible",
 		"prerequisites": ["Barrage III","Accuracy III","Drill III","Shock III","Logistics","March"],
-		"uniques": ["[+20]% Strength <when defending>", "[+30]% Strength <when above [70] HP> <when defending>"],
+		"uniques": ["[+20]% Strength <when defending>", "[+30]% Strength <when above [70] HP> <when defending>", "Heals [20] damage if it kills a unit <when defending>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
 		"row": 1,
 		"column": 0
