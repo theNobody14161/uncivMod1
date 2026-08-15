@@ -718,7 +718,7 @@
         "policies": [
             {
                 "name": "Populism",
-                "uniques": ["[+25]% Strength <for [Wounded] units>"],
+                "uniques": ["[+20]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 2
             },
@@ -761,7 +761,7 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>"
+                    "[+20]% Strength <when attacking> <for [Military] units> <for [50] turns>"
                 ]
             }
         ]
@@ -802,7 +802,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+                    "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
                 ],
                 "row": 1,
                 "column": 5
@@ -908,7 +908,7 @@
             {
                 "name": "Patriotism",
                 "uniques": [
-                    "[+33]% Strength for cities <when defending>"
+                    "[+30]% Strength for cities <when defending>"
                 ],
                 "requires": ["Volunteer Army"],
                 "row": 3,
@@ -972,7 +972,7 @@
             {
                 "name": "Populism",
                 "uniques": [
-                "[+25]% Strength <for [Wounded] units>"
+                "[+20]% Strength <for [Wounded] units>"
                 "[+1 Happiness] from every [Military Academy]"
                 "[+1 Happiness] from every [Military Base]"
                 ],
@@ -1023,7 +1023,7 @@
             {
                 "name": "Lightning Warfare",
                 "uniques": [
-                    "[+25]% Strength <for [Armored] units> <when attacking>",
+                    "[+20]% Strength <for [Armored] units> <when attacking>",
                     "[+1] Movement <for [Armored] units>"
                 ],
                 "requires": ["Mobilization"],
@@ -1054,7 +1054,7 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
+                    "[+20]% Strength <when attacking> <for [Military] units> <for [50] turns>",
                     "Free Social Policy"
                 ]
             }
@@ -1097,7 +1097,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+                    "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
                 ],
                 "row": 1,
                 "column": 5
